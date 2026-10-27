@@ -1,0 +1,10 @@
+Handwriting Segmenter
+Copyright 2026 Daniel Guo
+
+This product includes software derived from DIS / IS-Net
+(https://github.com/xuebinqin/DIS), Copyright Xuebin Qin et al.,
+licensed under the Apache License, Version 2.0.
+
+The released model weights are fine-tuned from Inoob/DIS-Handwriting-Remover
+(https://huggingface.co/Inoob/DIS-Handwriting-Remover), licensed under the
+Apache License, Version 2.0.

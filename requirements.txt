@@ -1,0 +1,11 @@
+torch
+torchvision
+pillow
+numpy
+onnx
+onnxruntime
+tqdm
+scipy
+opencv-python-headless
+pypdfium2
+huggingface_hub

@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+*.onnx
+*.pth
+*.pt
+data/
+samples/
+pretrained/
+checkpoints/*
+!checkpoints/.gitkeep
+export/*
+!export/.gitkeep
+.DS_Store
